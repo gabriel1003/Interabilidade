@@ -1,6 +1,6 @@
 
 fun main() {
-    //TIP Press <shortcut actionId="ShowIntentionActions"/> with your caret at the highlighted text
+
     println("Hello world")
     val calc1 = Operacao()
     val resposta1 = calc1.soma(2, 6)
